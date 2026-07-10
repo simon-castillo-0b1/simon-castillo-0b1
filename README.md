@@ -70,12 +70,6 @@ Short impact-focused description (what problem it solves and your contribution).
 🔗 https://github.com/simon-castillo-0b1/repository-name
 -->
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simon-castillo-0b1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simon-castillo-0b1&layout=compact&theme=tokyonight)
 
 ---
 
